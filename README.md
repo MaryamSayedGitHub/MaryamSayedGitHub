@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maryam Sayed 
-- 👀 I’m interested in ML & DL & NLP
+- 👀 I’m interested in ML & DL[CV,IP]
 - 🌱 I’m currently learning DL
 
 <!---
