@@ -8,7 +8,7 @@
 
 
 ## 📄 My CV  
-[🔗 Click here to view my CV]([https://github.com/username/repository-name/blob/main/CV.pdf](https://drive.google.com/file/d/1FWERIzHQK3YMdgsslBHUprO49KVtQVtj/view))
+[🔗 Click here to view my CV]([[https://github.com/username/repository-name/blob/main/CV.pdf](https://drive.google.com/file/d/1FWERIzHQK3YMdgsslBHUprO49KVtQVtj/view)](https://github.com/MaryamSayedGitHub/MaryamSayedGitHub/blob/main/Maryam%20Sayed%20Ahmed%20cv.pdf))
 
 
 </h1>
