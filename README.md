@@ -2,8 +2,10 @@
 # - 👋 I’m a Data Scientist
 # - 👀 I’m interested in ML & DL[CV,IP]
 # - 🌱 I’m currently learning DL
+
 ## 📄 My CV  
-[View My CV]([https://drive.google.com/file/d/your-cv-id/view?usp=sharing](https://drive.google.com/file/d/1FWERIzHQK3YMdgsslBHUprO49KVtQVtj/view?usp=sharing))
+[Click here to view my CV]([https://github.com/username/repository-name/blob/main/CV.pdf](https://drive.google.com/file/d/1FWERIzHQK3YMdgsslBHUprO49KVtQVtj/view?usp=sharing))
+
 
 </h1>
 
