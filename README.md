@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Maryam%20Sayed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C%20VLMs%20%20%7C%20LLMs&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Maryam%20Sayed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C Agents (langchain ,langgraph ) Agentic RAG %20VLMs%20%20%7C%20LLMs&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 
 <br/>
