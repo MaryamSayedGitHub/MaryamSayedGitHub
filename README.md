@@ -1,10 +1,8 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Maryam%20Sayed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C%20AI%20Builder%20%7C%20Educator&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Maryam%20Sayed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C%20VLMs%20%20%7C%20LLMs&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Vision+Engineer+%F0%9F%A6%B7;Medical+Imaging+%7C+Real-Time+Detection;Building+AI+that+sees+and+understands;From+pixels+to+production+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryam_Sayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sayed-ahmed/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Email](https://img.shields.io/badge/Gmail-maryamsayed207-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamsayed207@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)]([[https://github.com/YOUR_GITHUB_USERNAME](https://drive.google.com/file/d/13y_huCZK4q8L3rJjoSbVLGfgCuxGuMtt/view?usp=sharing)](https://drive.google.com/file/d/13y_huCZK4q8L3rJjoSbVLGfgCuxGuMtt/view?usp=sharing))
 
 </div>
 
@@ -60,147 +58,6 @@
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-### 🦷 Dental Caries Detection — Multi-YOLO Benchmark Pipeline
-> *Production-grade CV system for automated dental cavity detection and segmentation*
-
-- Benchmarked **9 YOLO variants** (v5 → v8 → v11) + **Faster R-CNN** baseline under identical conditions
-- Best model: **YOLOv5m — mAP@50: 0.7992** (+27% over two-stage baseline at 5.6× faster speed)
-- Implemented **instance segmentation** (YOLOv8-seg, YOLO11x-seg) + cavity area measurement in mm²
-- Built **Weighted Boxes Fusion ensemble** (YOLO + Swin Transformer backbone)
-- Deployed full **Flask REST API** with ONNX export and Dockerfile
-
-`PyTorch` `YOLOv5/v8/v11` `Faster R-CNN` `Flask` `ONNX` `Albumentations` `Roboflow`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/dental-caries-detection)
-
----
-
-### 🫀 Liver Fibrosis Classification — Medical Imaging AI
-> *Non-invasive liver fibrosis staging from histopathological images*
-
-- Classified fibrosis stages (F0–F4) directly from medical images — **no biopsy required**
-- Architecture: **CNNs + UNet++** with nested dense skip connections for pixel-level segmentation
-- Deployed as an interactive **Streamlit web application** for real-time clinical inference
-- Applied CLAHE preprocessing and domain-specific augmentation for histopathology images
-
-`Python` `PyTorch` `CNNs` `UNet++` `OpenCV` `Streamlit` `Medical Imaging`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/liver-fibrosis-classifier)
-
----
-
-### 💬 Sentiment Analysis NLP Pipeline
-> *End-to-end text classification with real-time web deployment*
-
-- Built complete NLP pipeline: text cleaning → tokenization → TF-IDF feature extraction → model training
-- Trained and evaluated multiple classifiers; deployed via **Flask REST API** for live predictions
-- Supports batch inference and real-time single-text sentiment scoring
-
-`Python` `Scikit-learn` `TF-IDF` `NLTK` `Flask` `NLP`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/sentiment-analysis)
-
----
-
-### 💰 P2P Lending Risk Predictor
-> *ML models for financial risk assessment and loan eligibility scoring*
-
-- Built classification models for **loan repayment prediction** and regression models for ROI/EMI estimation
-- Applied feature engineering on financial datasets with full EDA pipeline
-- Evaluated models with ROC-AUC, Precision-Recall, and SHAP explainability
-
-`Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn` `ML`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/p2p-lending-prediction)
-
----
-
-## 💼 Work Experience
-
-```
-🏫  Technical Instructor — AI & Computer Vision          Eduverse           Oct 2025 – Present
-    → End-to-end AI deployment: CNNs, YOLO, Flask, Streamlit
-    → Mentored students from zero to shipping production AI apps
-
-🏫  Python & Data Science Instructor                     Black Horse        Jun 2025 – Oct 2025
-    → Taught Pandas, NumPy, Matplotlib, EDA pipelines
-    → Designed structured curriculum for 3-month cohorts
-
-💻  Data Science Intern (Remote)                         Technocolabs       May 2023 – Jul 2023
-    → ML model development, feature engineering, analysis reports
-    → Agile remote collaboration across international team
-```
-
----
-
-## 🎓 Education & Training
-
-```
-🎓  B.Sc. Computer Science — Scientific Computing
-    Ain Shams University, Cairo  │  2021 – 2025
-
-📜  Data Science & AI Track — Digital Egypt Pioneers Initiative (DEPI)
-    Ministry of Communications & IT (MCIT)  │  Nov 2024 – May 2025
-
-🏆  AI Empower Egypt — Dell Technologies
-
-💼  Data Science Intern Certificate — Technocolabs Software
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Maryam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💡 What I'm Working On
-
-```
-🔬  Exploring Vision Transformers (ViT, Swin-T) for medical imaging
-⚡  Building real-time edge CV systems (Raspberry Pi + YOLO)
-📝  Writing about Computer Vision for Arabic-speaking developers
-🤝  Open to: internships · freelance CV projects · research collaboration
-```
-
----
-
-<div align="center">
 
 ### 🤝 Let's Connect
 
