@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryam_Sayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sayed-ahmed/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Email](https://img.shields.io/badge/Gmail-maryamsayed207-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamsayed207@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)]([[https://github.com/YOUR_GITHUB_USERNAME](https://drive.google.com/file/d/13y_huCZK4q8L3rJjoSbVLGfgCuxGuMtt/view?usp=sharing)](https://drive.google.com/file/d/13y_huCZK4q8L3rJjoSbVLGfgCuxGuMtt/view?usp=sharing))
 
 </div>
 
