@@ -18,49 +18,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
-```python
-class MaryamSayed:
-    name       = "Maryam Sayed"
-    role       = "Computer Vision Engineer"
-    location   = "Cairo, Egypt 🇪🇬"
-    education  = "B.Sc. Computer Science — Scientific Computing, Ain Shams University (2021–2025)"
-    email      = "maryamsayed207@gmail.com"
-
-    specializations = [
-        "Medical Image Analysis (CNNs, UNet++, Segmentation)",
-        "Real-Time Object Detection (YOLO v5/v8/v11)",
-        "Model Deployment (Flask, Streamlit, ONNX, Docker)",
-        "AI Education & Technical Mentorship",
-    ]
-
-    currently_doing = [
-        "Building CV systems for medical imaging",
-        "Teaching AI deployment at Eduverse",
-        "Exploring YOLO11 & Transformer-based detectors",
-    ]
-
-    fun_fact = "I taught machines to see — then I taught humans to teach machines."
-```
-
----
-
-## 🧠 Core Expertise
-
-<div align="center">
-
-| 🏥 Medical Imaging | ⚡ Real-Time Detection | 🚀 Deployment | 🎓 Education |
-|---|---|---|---|
-| CNNs · UNet++ | YOLO v5/v8/v11 | Flask · FastAPI | 200+ students |
-| Segmentation | Faster R-CNN | Streamlit apps | Curricula design |
-| Fibrosis staging | Ensemble (WBF) | ONNX · Docker | End-to-end AI |
-| Dental caries | Multi-model bench | REST APIs | Hands-on labs |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
